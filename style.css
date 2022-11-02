@@ -1,0 +1,100 @@
+.jumbotron {
+	text-align: center;
+	background-color: #CC3300;
+	height: 450px;
+	color: #fff;
+}
+.jumbotron img {
+	width: 230px;
+	height: 200px;
+	border:2px solid goldenrod;
+	margin-top: 55px;
+}
+ul a {
+	color: #fff;
+	
+}
+
+.menu {
+	width: 99%;
+	height: 30px;
+	background-color: #CC3300;
+	position: absolute;
+	margin-top: -35px;
+
+
+}
+.menu ul {
+	float: right;
+	position: relative;
+	margin-right: 14px;
+
+}
+.menu ul li {
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	margin: 4px;
+	padding: 2px;
+}
+.menu ul li a {
+	font-size: 10px;
+	font-weight: bold;
+}
+#home {
+	padding: 2px;
+	background-color: #CC3300;
+}
+
+section img {
+	position: absolute;
+	 float: left;
+	 display: block;
+	 width: 180px;
+	 height: 190px;
+}
+section p {
+	text-align: justify-all;
+	margin-left: 190px;
+	display: block;
+
+}
+h4 {
+	float: left;
+	margin-top: 20px;
+	position: absolute;
+	color: #EE3300;
+	font-size: 20px;
+}
+button {
+	float: left;
+	margin-top: 50px;
+	position: absolute;
+	padding:3px 5px ;
+
+
+}
+button a {
+	color: seagreen;
+}
+#produk {
+	width: 483px;
+	height: 280px;
+	padding: 10px;
+	margin: 8px;
+}
+h3 {
+	text-align: justify-all;
+	margin-left: 190px;
+	display: block;
+	font-size: 18px;
+}
+footer {
+	height: 50px;
+	width: 100%;
+	background-color: #CC3300;
+	display: block;
+	text-align: center;
+	padding-top: 15px;
+	position: absolute;
+}
